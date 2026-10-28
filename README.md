@@ -26,7 +26,7 @@ problems and support informed decision-making.
 | Student Performance Analysis | Data Analysis | Python, Statistics |
 | Business Intelligence Projects | BI & Data | Power BI |
 | Econometric Analysis | Econometrics | R, Regression |
-| Non-Parametric and Computational Statistics | SAS
+| Non-Parametric and Computational Statistics | Statistics | SAS
 
 ## Website
 
