@@ -24,8 +24,9 @@ problems and support informed decision-making.
 |---|---|---|
 | Donor Prediction | Machine Learning | Python, Pandas, Scikit-learn |
 | Student Performance Analysis | Data Analysis | Python, Statistics |
-| Business Intelligence Projects | BI & Data | SQL, Power BI |
+| Business Intelligence Projects | BI & Data | Power BI |
 | Econometric Analysis | Econometrics | R, Regression |
+| Non-Parametric and Computational Statistics | SAS
 
 ## Website
 
@@ -37,7 +38,7 @@ SAS, Python, R, SQL, SAP, BPMN and Power BI.
 
 ## Contact
 
-- GitHub: https://github.com/catarinadecarvalhoaparicio
+- GitHub: https://github.com/catarinadecarvalhoaparicio-collab
 - LinkedIn: www.linkedin.com/in/catarina-aparicio
 
 
