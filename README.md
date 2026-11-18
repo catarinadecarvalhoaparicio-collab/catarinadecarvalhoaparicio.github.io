@@ -15,12 +15,10 @@ problems and support informed decision-making.
 
 - **Data Analysis:** Exploratory analysis, statistical testing and visualization.
 - **Business Intelligence:** Power BI and data-driven reporting.
--
-## Website
 
-Visit my portfolio: https://catarinadecarvalhoaparicio.github.io
 
-## Technologies
+
+## Technical Skills
 
 SAS, Python, R, SQL, SAP, BPMN and Power BI.
 
